@@ -188,7 +188,7 @@ flutter run
 **[image](https://pub.dev/packages/image)**
 
 </td>
-<td align="center" width="33%">
+<td width="33%">
 
 ### 🎨 **UI & Charts**
 ![Package](https://img.shields.io/badge/fl__chart-96CEB4?style=flat-square)  
@@ -358,7 +358,7 @@ git push origin feature/NewFeature
 
 <div align="center">
 
-### **Made with by [7Na7iD7](https://github.com/7Na7iD7)**
+### **Made with ❤️ by [7Na7iD7](https://github.com/7Na7iD7)**
 
 *Passionate about making complex concepts accessible through beautiful design*
 
